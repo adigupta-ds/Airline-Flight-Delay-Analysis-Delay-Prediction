@@ -129,4 +129,4 @@ streamlit run app.py
 
 ## 👤 Author
 
-Built by [Aditya Sagar Gupta] — [LinkedIn] · [Portfolio/GitHub]
+Built by [Aditya Sagar Gupta] — [https://www.linkedin.com/in/adigupta-ds] · [https://github.com/adigupta-ds/Airline-Flight-Delay-Analysis-Delay-Prediction/tree/main]
