@@ -129,4 +129,4 @@ streamlit run app.py
 
 ## 👤 Author
 
-Built by [Your Name] — [LinkedIn] · [Portfolio/GitHub]
+Built by [Aditya Sagar Gupta] — [LinkedIn] · [Portfolio/GitHub]
