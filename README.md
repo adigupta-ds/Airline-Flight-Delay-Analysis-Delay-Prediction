@@ -28,16 +28,16 @@ anyone — not just someone reading a Jupyter notebook.
 <!-- Replace the src paths below with your own screenshot filenames, e.g. "screenshots/overview.png" -->
 
 ### Dashboard — Overview page
-![Overview dashboard showing KPI cards and monthly delay trend](PASTE_IMAGE_1_HERE.png)
+![Overview dashboard showing KPI cards and monthly delay trend](screenshots/overview.png)
 
 ### SQL Insights page
-![SQL insights showing carrier and airport delay rankings](PASTE_IMAGE_2_HERE.png)
+![SQL insights showing carrier and airport delay rankings](screenshots/sql_insights.png)
 
 ### EDA & Statistics page
-![Interactive heatmap and hypothesis test results](PASTE_IMAGE_3_HERE.png)
+![Interactive heatmap and hypothesis test results](screenshots/eda_statistics.png)
 
 ### Delay Predictor page
-![Live delay risk prediction tool](PASTE_IMAGE_4_HERE.png)
+![Live delay risk prediction tool](screenshots/delay_predictor.png)
 
 ---
 
